@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 📫 How to reach me: crsongirkar2@gmail.com
-- 😄 Pronouns:    chinmay 
+- 😄 Pronouns:  He/Her
 - ⚡ Fun fact: ...
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crsongirkar&label=Profile%20views&color=0e75b6&style=flat" alt="crsongirkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crsongirkar&label=Profile%20views&color=red&style=flat" alt="crsongirkar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
