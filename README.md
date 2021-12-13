@@ -1,6 +1,8 @@
 ###
+
+
 <B>Hello Folks 
- 👋 , I'm Chinmay Songirkar </B>
+ 👋 , I'm Chinmay Songirkar </B>  
  
    <B> About Me</B> : 
    I'm an student of Computer Engineering . I'm very passionate about making my own tools for Software Development,. Some technologies I enjoy working with, include :Python, CPP, JavaScript, C, CSS, HTML,. And I am also a Google Club Member .I also Love Sharing my knowledge with others.
@@ -11,10 +13,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : Python 
 - 🌱 I’m currently learning : Data Structure And Algorithm 
-- ![3b9235b902cab472f8a8137debb5a27e](https://user-images.githubusercontent.com/73063069/145781281-5f889bce-19a5-4fed-8d74-ea0e29eb9486.jpg)
-👯 I’m looking to collaborate on ...
+
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
--📫 How to reach me: crsongirkar2@gmail.com
+- 📫 How to reach me: crsongirkar2@gmail.com
 - 😄 Pronouns:    chinmay 
 - ⚡ Fun fact: ...
 
