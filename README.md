@@ -7,7 +7,7 @@ Android Developer & Web-Developer
 
 About Me: I'm a student of Computer Engineering. I'm very passionate about making my own tools for Software Development, Some technologies I enjoy working with, include Android, Python, C, CPP, JavaScript, CSS, and HTML. And I am also a Google Club Member. I also Love Sharing my knowledge with others.
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Jalgaon
 * ✉️  You can contact me at [chinmay@iiec.edu.in](mailto:chinmay@iiec.edu.in)
 * 🧠  I'm learning Angular JS
 * 🤝  I'm open to collaborating on Competitive Programming 💻
