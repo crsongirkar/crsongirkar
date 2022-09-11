@@ -2,13 +2,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chinmay Songirkar
 =========================================================================================================================================
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<!--   <img align='right' src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47bgq9jm4zws12xm7elaz1qflrt10s76iudp0o2qnx&rid=giphy.gif&ct=g" width="480" height="270"> -->
-<!--  <img align='right' src=" https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47bgq9jm4zws12xm7elaz1qflrt10s76iudp0o2qnx&rid=giphy.gif&ct=g" width="480" height="370"> -->
-<!-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p> -->
-<!--   https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47bgq9jm4zws12xm7elaz1qflrt10s76iudp0o2qnx&rid=giphy.gif&ct=g -->
-<!-- <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p> -->
 
-Android Developer & Web-Developer
+
+<h2>Android Developer & Web-Developer</h2>
+
 ---------------------------------
 
 About Me: I'm a student of Computer Engineering. I'm very passionate about making my own tools for Software Development, Some technologies I enjoy working with, include Android, Python, C, CPP, JavaScript, CSS, and HTML. And I am also a Google Club Member. I also Love Sharing my knowledge with others.
