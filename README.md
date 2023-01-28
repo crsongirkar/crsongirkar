@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <h2>Android Developer & Web-Developer</h2>
-crsongirkar/crsongirkar is a special repository: its README.md
+
 
 ---------------------------------
 
