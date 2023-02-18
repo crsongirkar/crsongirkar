@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-<h2>Android Developer & Web-Developer</h2>
+<h2>Android Developer</h2>
 
 
 ---------------------------------
