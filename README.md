@@ -55,9 +55,10 @@ About Me: I'm a student of Computer Engineering. I'm very passionate about makin
 <a href="http://www.github.com/crsongirkar"><img src="https://activity-graph.herokuapp.com/graph?username=crsongirkar&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/crsongirkar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsongirkar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
   
-  https://profile-counter.glitch.me/{crsongirkar}/count.svg
+   ![Visitor Count](https://profile-counter.glitch.me/{crsongirkar}/count.svg)
+
+
 
 ### Support Me
   
