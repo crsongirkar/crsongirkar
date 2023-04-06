@@ -13,8 +13,9 @@ About Me: I'm a student of Computer Engineering. I'm very passionate about makin
 
 * 🌍  I'm based in Jalgaon
 * ✉️  You can contact me at [chinmay@iiec.edu.in](mailto:chinmay@iiec.edu.in)
-* 🧠  I'm learning Angular JS
+* 🧠  I'm learning Competitive Programming 💻
 * 🤝  I'm open to collaborating on Competitive Programming 💻
+
 
 
 
