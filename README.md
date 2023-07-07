@@ -10,7 +10,9 @@
 
 ---------------------------------
 
-About Me: I'm a student of Computer Engineering. I'm very passionate about making my own tools for Software Development, Some technologies I enjoy working with, include Android, Python, C, CPP, JavaScript, CSS, and HTML. And I am also a Google Club Member. I also Love Sharing my knowledge with others.
+<!--About Me: I'm a student of Computer Engineering. I'm very passionate about making my own tools for Software Development, Some technologies I enjoy working with, include Android, Python, C, CPP, JavaScript, CSS, and HTML. And I am also a Google Club Member. I also Love Sharing my knowledge with others.--->
+
+ <B>I am a Computer Engineering student passionate about working on software tools. Proficient in Android, Kotlin, C, C++, JavaScript, CSS, and HTML, I actively contribute as a Google Club member. Sharing knowledge is my forte through blogging and workshops. Continuously improving my knowledge, I explore new technologies and contribute to open-source projects. With professionalism and excellence, I aim to make a significant impact in software development.</B>
 
 * 🌍  I'm based in Jalgaon
 * ✉️  You can contact me at [chinmay@iiec.edu.in](mailto:chinmay@iiec.edu.in)
