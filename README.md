@@ -1,10 +1,11 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chinmay Songirkar
-=========================================================================================================================================
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm  Chinmay Songirkar</h1>
 
 
-<h2>Android Developer</h2>
+<!---<h2>Android Developer</h2>--->
 
 
 ---------------------------------
@@ -40,10 +41,12 @@ About Me: I'm a student of Computer Engineering. I'm very passionate about makin
 <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
 </p>
 
-
-### Socials
-
 <p align="left"> <a href="https://www.github.com/crsongirkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chinmay-songirkar-247a59189/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Chinmay Songirkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+
+
+## 🎵 Music apps I use
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
+
 
 
 ### Badges
@@ -62,4 +65,8 @@ About Me: I'm a student of Computer Engineering. I'm very passionate about makin
 <a href="https://www.buymeacoffee.com/crsongirka"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
   
   ![Visitor Count](https://profile-counter.glitch.me/{crsongirkar}/count.svg)
+  
+  ### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+### Socials
 
